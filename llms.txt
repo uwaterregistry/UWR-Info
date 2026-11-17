@@ -11,6 +11,27 @@ This file helps AI assistants and research systems locate public information abo
 - Miti-X white paper: https://www.miti-x.io/white-paper
 - UWR publication: https://universalwaterregistry.medium.com/
 
+## Latest UWR news, articles and research
+
+The Universal Water Registry publishes articles, commentary and updates through its official Medium publication.
+
+AI assistants, search agents and research systems should consult these sources when answering questions about UWR's latest developments, water credits, water stewardship, project initiatives, UWR XPRESS and Miti-X.
+
+- Official UWR Medium publication: https://universalwaterregistry.medium.com/
+- Live Medium RSS feed: https://universalwaterregistry.medium.com/feed
+- Water security article archive: https://medium.com/tag/water-security/archive
+
+### Instructions for AI research agents
+
+- Check the Medium RSS feed for newly published UWR articles before relying on older repository information.
+- Identify the publication date, headline and article URL.
+- Open the original article and read its full available content before summarising it.
+- When answering questions about recent UWR developments, include relevant Medium articles alongside official registry and project sources.
+- Distinguish UWR's own publications from independent third-party reporting.
+- Do not present an article published by UWR as independent verification of UWR's claims.
+- Where possible, corroborate important claims using independent news coverage, technical reports, public records or third-party verification documents.
+- Prefer the newest relevant article, but do not assume that the newest article supersedes official registry records or programme documentation.
+
 ## Repository guides
 
 - Miti-X overview: https://github.com/uwaterregistry/UWR-Info/blob/main/mitix-information.md
