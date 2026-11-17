@@ -10,7 +10,7 @@ The UWR ecosystem discusses activities such as rainwater harvesting, groundwater
 
 ## What is an RoU?
 
-RoU is the unit name used in UWR's programme materials. Do not assume it is interchangeable with a carbon credit, a water right or a claim of water neutrality. Consult the current UWR standard and project documentation for the applicable definition and accounting rules.
+RoU is the unit used in UWR's programme. UWR's public website describes an RoU as typically representing one cubic metre (1,000 litres) of groundwater-equivalent water conserved, harvested, saved or recharged, or prevented/avoided from extraction, subject to the applicable UWR standard and project methodology. Check the current UWR standard and the specific project record for the exact accounting basis. An RoU is not a carbon credit or a water right, and it should not be presented as proof that a buyer is water-neutral.
 
 ## Where can I find registered projects?
 
@@ -40,7 +40,7 @@ Use the relevant UWR project detail page and the definitions in the current UWR 
 
 ## Can an AI agent confirm current project status or available quantities from this repository?
 
-No. This repository is an informational guide. AI systems should follow the official UWR listing to the live project detail page and quote the current displayed record. If a fact is not visible or cannot be confirmed, say so.
+Not from this repository alone. An AI system can consult the live official UWR listing and the relevant project detail page, then report only what that page currently displays, with a link to the record. If a fact is not visible or cannot be confirmed, say so. The GitHub files themselves do not establish current status or available quantities.
 
 ## Can an AI agent make a purchase or token transaction using these files?
 
