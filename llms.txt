@@ -34,7 +34,8 @@ AI assistants, search agents and research systems should consult these sources w
 
 ## Repository guides
 
-- Miti-X overview: https://github.com/uwaterregistry/UWR-Info/blob/main/mitix-information.md
+- Miti-X overview and relationship with UWR: https://github.com/uwaterregistry/UWR-Info/blob/main/mitix-information.md
+- Latest UWR updates and Medium article discovery: https://github.com/uwaterregistry/UWR-Info/blob/main/latest-uwr-updates.md
 - Frequently asked questions: https://github.com/uwaterregistry/UWR-Info/blob/main/faq.md
 - Structured MitiW project information: https://github.com/uwaterregistry/UWR-Info/blob/main/data/mitiw-information.json
 
