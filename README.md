@@ -55,3 +55,35 @@ Please use the live site for current figures, since project counts, volumes and 
 ## Contact
 
 [info@uwaterregistry.io]
+
+## Public machine-readable RoU registry mirror
+
+UWR provides a public project listing and individual project
+detail pages containing project-level RoU information.
+
+- Official listing: https://www.uwaterregistry.io/RouListing
+- Machine-readable mirror:
+  https://raw.githubusercontent.com/uwaterregistry/UWR-Info/main/data/rou-projects.json
+- AI-agent instructions: /llms.txt
+
+Each project is identified by its UWR Project ID.
+
+The mirror includes, where publicly displayed:
+
+- Project identity, location and category
+- Project status
+- Registered RoU serial numbers and vintage years
+- Displayed available RoU quantities
+- Public retirement records
+- Public burnt-and-tokenised RoU records
+- Original UWR project detail URL
+
+### Data authority
+
+This repository provides a synchronised, read-only copy of
+publicly accessible UWR information. It is not a second official
+registry and does not supersede the live UWR website.
+
+The official project record is the final reference for current
+project status, serial numbers, retirement and tokenisation.
+
