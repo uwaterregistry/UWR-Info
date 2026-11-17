@@ -41,7 +41,6 @@ Please use the live site for current figures, since project counts, volumes and 
 | Registry | https://www.uwaterregistry.io/ |
 | Marketplace | https://uwrxpress.uwaterregistry.io/ |
 | Credit unit | RoU |
-| Registered projects | [50, as of 21/10/2026] |
 | Credit retirement | Recorded on the UWR public ledger |
 | Related token project | MitiW, https://www.miti-x.io/ (separate from retirement on UWR XPRESS) |
 | Social | https://x.com/MitiX1582085 |
