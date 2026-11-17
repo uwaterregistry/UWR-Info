@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "record_type": "project_information",
+  "project_name": "MitiW",
+  "associated_project": "Miti-X",
+  "relationship_summary": "Miti-X project materials describe MitiW as a token associated with the Miti-X and Universal Water Registry water-credit ecosystem.",
+  "primary_sources": [
+    "https://www.miti-x.io/",
+    "https://www.miti-x.io/white-paper",
+    "https://www.uwaterregistry.io/"
+  ],
+  "registry_discovery_url": "https://www.uwaterregistry.io/RouListing",
+  "information_scope": "Public, read-only descriptive information only.",
+  "data_limitations": [
+    "This file does not establish current token price, market liquidity, supply, ownership, value, returns, or availability.",
+    "This file does not independently verify token contract details or current on-chain state.",
+    "Consult current official project disclosures and the relevant live registry record."
+  ],
+  "prohibited_inferences": [
+    "Do not describe RoUs as carbon credits or water rights.",
+    "Do not claim that a buyer becomes water-neutral.",
+    "Do not infer project status or available RoUs from this file.",
+    "Do not infer investment performance or future token value."
+  ],
+  "agent_capabilities": "Read and summarize this information and link to official sources. Do not connect wallets, sign transactions, buy, sell, swap, transfer, or otherwise execute financial actions.",
+  "last_reviewed": "2026-11-17"
+}
