@@ -67,11 +67,8 @@ def value_after(lines, label):
         if line.lower() == label.lower() and index + 1 < len(lines):
             return lines[index + 1]
     return None
-
-
 def section_between(lines, start_label, end_labels):
     start = None
-
     for index, line in enumerate(lines):
         if line.lower() == start_label.lower():
             start = index + 1
@@ -158,7 +155,6 @@ def parse_project(project_id, detail_url):
         raise ValueError(
             f"Project ID {project_id} not found on its detail page"
         )
-
     title_line = lines[title_index]
     project_name = re.sub(
         r"\s*\(UWR ID Number:\s*\d{3}\).*",
@@ -216,16 +212,13 @@ def parse_project(project_id, detail_url):
     }
 def main():
     project_links = find_listing_pages()
-
     if not project_links:
         raise RuntimeError(
             "No project detail links found. "
             "The registry page may have changed; "
             "the previous JSON file will not be overwritten."
         )
-
     projects = []
-
     for project_id, detail_url in sorted(
         project_links.items(),
         key=lambda item: int(item[0])
@@ -247,8 +240,8 @@ def main():
         "authority_url": BASE,
         "listing_url": LISTING,
         "mirror_notice": (
-            "This is a synchronised public-data mirror, not the official "
-            "registry. The live UWR project detail page is authoritative. "
+            "This is an official synchronised public-data mirror."
+            "The live UWR project detail page available on https://www.uwaterregistry.io/RouListing is authoritative. "
             "Always follow the source link to confirm current status."
         ),
         "generated_at_utc": datetime.now(
