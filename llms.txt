@@ -1,0 +1,38 @@
+
+# Universal Water Registry (UWR)
+
+UWR is a voluntary registry for water stewardship projects and
+registered water credits (RoUs).
+
+## Primary registry
+
+Official RoU project listing:
+https://www.uwaterregistry.io/RouListing
+
+Individual project records:
+https://www.uwaterregistry.io/Registry/Details
+
+## Machine-readable public dataset
+
+GitHub mirror:
+https://raw.githubusercontent.com/uwaterregistry/UWR-Info/main/data/rou-projects.json
+
+## How to use the dataset
+
+- Identify each project using its UWR three-digit Project ID.
+- Follow registry_detail_url to view the official project record.
+- Use retirement_records for public retirement entries.
+- Use tokenisation_records for public burnt-and-tokenised entries.
+- Use credit_serial_records for registered serial numbers and
+  the displayed available RoU quantities.
+- Check generated_at_utc to understand when the mirror was refreshed.
+- Always cite the official UWR project page for project-specific claims.
+- If a record is missing or unclear, do not infer its status.
+
+## Important data distinction
+
+This GitHub dataset is a read-only mirror.
+It is not the official registry and cannot create, retire,
+transfer, burn, tokenize, or modify RoUs.
+
+The live UWR registry project detail page is authoritative.
