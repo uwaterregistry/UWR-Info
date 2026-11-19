@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "name": "Universal Water Registry and UWR XPRESS",
+  "description": "Read-only discovery and research entry point for UWR water-stewardship programme information, public RoU project records, UWR XPRESS marketplace information, Miti-X disclosures and UWR publications.",
+  "repository": "https://github.com/uwaterregistry/UWR-Info",
+  "documentation": "https://github.com/uwaterregistry/UWR-Info/blob/main/AGENT-DISCOVERY.md",
+  "ai_entry_point": "https://github.com/uwaterregistry/UWR-Info/blob/main/llms.txt",
+  "capabilities": [
+    {
+      "id": "discover_official_sources",
+      "mode": "read-only",
+      "description": "Find official UWR, UWR XPRESS, Miti-X and publication sources."
+    },
+    {
+      "id": "read_project_records",
+      "mode": "read-only",
+      "description": "Open public UWR RoU listings and individual project records to inspect information displayed by the registry."
+    },
+    {
+      "id": "read_marketplace_information",
+      "mode": "read-only",
+      "description": "Open UWR XPRESS pages to review publicly displayed marketplace information and terms."
+    },
+    {
+      "id": "read_programme_documentation",
+      "mode": "read-only",
+      "description": "Read repository guides and official programme documentation."
+    },
+    {
+      "id": "discover_recent_publications",
+      "mode": "read-only",
+      "description": "Find recent UWR publications through the official Medium publication and RSS feed."
+    }
+  ],
+  "official_sources": {
+    "uwr_registry": "https://www.uwaterregistry.io/",
+    "rou_listing": "https://www.uwaterregistry.io/RouListing",
+    "uwrxpress": "https://uwrxpress.uwaterregistry.io/",
+    "uwrxpress_project_listing": "https://uwrxpress.uwaterregistry.io/ProjectListing",
+    "mitix": "https://www.miti-x.io/",
+    "mitix_white_paper": "https://www.miti-x.io/white-paper",
+    "uwr_medium": "https://universalwaterregistry.medium.com/",
+    "uwr_medium_rss": "https://universalwaterregistry.medium.com/feed"
+  },
+  "source_rules": {
+    "current_registry_status": "Use the live individual UWR project record.",
+    "current_marketplace_information": "Use the live UWR XPRESS website and its current terms.",
+    "mitix_and_mitiw_disclosures": "Use current official Miti-X materials.",
+    "recent_uwr_updates": "Check the official UWR Medium RSS feed and identify first-party publications as such.",
+    "repository_role": "Explanatory discovery layer only; not a registry, marketplace database, verifier or transaction service."
+  },
+  "restrictions": {
+    "transactions_supported": false,
+    "payments_supported": false,
+    "purchases_supported": false,
+    "wallet_connections_supported": false,
+    "token_transfers_or_swaps_supported": false,
+    "credit_retirements_supported": false,
+    "signing_supported": false,
+    "note": "This manifest describes public read-only discovery only. It does not advertise x402 payment resources or authorize financial or registry actions."
+  }
+}

@@ -1,6 +1,6 @@
 # Universal Water Registry and Miti-X — AI information guide
 
-This file helps AI assistants and research systems locate public information about the Universal Water Registry (UWR), UWR XPRESS and Miti-X.
+This file is the AI-oriented entry point to the UWR-Info repository, the central discovery and explanation layer for public information about the Universal Water Registry (UWR), UWR XPRESS, Miti-X and MitiW. Use this repository to understand the ecosystem and locate primary sources; use live official records for current facts.
 
 ## Official websites
 
@@ -34,6 +34,9 @@ AI assistants, search agents and research systems should consult these sources w
 
 ## Repository guides
 
+- Central AI agent discovery guide: https://github.com/uwaterregistry/UWR-Info/blob/main/AGENT-DISCOVERY.md
+- Machine-readable read-only agent discovery profile: https://github.com/uwaterregistry/UWR-Info/blob/main/agent-discovery.json
+- Full AI Agent Guide and source-routing rules: https://github.com/uwaterregistry/UWR-Info/blob/main/AI-AGENT-GUIDE.md
 - Miti-X overview and relationship with UWR: https://github.com/uwaterregistry/UWR-Info/blob/main/mitix-information.md
 - Latest UWR updates and Medium article discovery: https://github.com/uwaterregistry/UWR-Info/blob/main/latest-uwr-updates.md
 - Frequently asked questions: https://github.com/uwaterregistry/UWR-Info/blob/main/faq.md
