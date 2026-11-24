@@ -48,4 +48,4 @@ For current marketplace information, consult UWR Xpress directly.
 
 ## Scope
 
-This repository is an informational and research resource. It is not a live registry feed, purchasing API or transaction interface.
+This repository is an informational and research resource. It is not a live registry feed but an updated copy of registry documentation and serial ID of water credits originally issued to the project account owner, purchasing API or transaction interface.
