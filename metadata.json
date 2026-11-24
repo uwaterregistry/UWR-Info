@@ -1,0 +1,41 @@
+
+{
+  "name": "MitiW and Universal Water Registry Information",
+  "description": "Public informational resources about MitiW, Miti-X, Universal Water Registry and UWR Xpress.",
+  "schema_version": "1.0",
+  "ecosystem": {
+    "mitiw": {
+      "name": "MitiW",
+      "website": "https://www.miti-x.io/",
+      "whitepaper": "https://www.miti-x.io/white-paper",
+      "chain": "Polygon",
+      "token_contract": "0xf51a88d3f584c02Fe9D4e8990F8455e26D7a4B3a"
+    },
+    "uwr": {
+      "name": "Universal Water Registry",
+      "website": "https://www.uwaterregistry.io/",
+      "project_listing": "https://www.uwaterregistry.io/RouListing"
+    },
+    "uwrxpress": {
+      "name": "UWR Xpress",
+      "website": "https://uwrxpress.uwaterregistry.io/"
+    }
+  },
+  "topics": [
+    "water stewardship",
+    "water credits",
+    "water conservation",
+    "groundwater recharge",
+    "rainwater harvesting",
+    "wastewater reuse",
+    "environmental verification",
+    "registry retirement"
+  ],
+  "limitations": [
+    "Token ownership is not proof of a water outcome.",
+    "Token prices do not establish environmental value.",
+    "Water credits are not water rights.",
+    "Water credits are not carbon credits.",
+    "Environmental claims require supporting evidence."
+  ]
+}
