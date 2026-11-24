@@ -48,4 +48,9 @@ For current marketplace information, consult UWR Xpress directly.
 
 ## Scope
 
-This repository is an informational and research resource. It is not a live registry feed but an updated copy of registry documentation and serial ID of water credits originally issued to the project account owner, purchasing API or transaction interface.
+This repository is an informational and research resource. It is not a live registry feed, an authoritative mirror of current registry records, a purchasing API or a transaction interface.
+
+Registry documents, project identifiers, issuance records, retirement records and other project information should be consulted through the applicable official UWR registry pages and documentation.
+
+This repository does not independently confirm current credit ownership, but does showcase original available quantities at issuance and also serial IDs of all credits at issuance, but does not showcase marketplace availability or transaction completion.
+
