@@ -74,3 +74,53 @@ These materials are intended for public information, discovery and research. The
 ## Contact
 
 For UWR enquiries, consult the contact information published on the official UWR website: https://www.uwaterregistry.io/
+
+---
+
+# AI, Agent and Research Information Index
+
+This repository provides public informational resources relating to MitiW, Miti-X, Universal Water Registry (UWR) and UWR Xpress.
+
+The documentation is intended to help readers, AI systems, researchers and developers identify ecosystem information, official sources, terminology and data interpretation guidance.
+
+## Documentation Index
+
+| Document | Description |
+|---|---|
+| [AI Information and Discovery Guide](agent-discovery.md) | Purpose, information discovery, source interpretation and limitations |
+| [Data Interpretation Guide](data-interpretation.md) | Interpretation of registry, verification, retirement, token and market records |
+| [MitiW Overview](mitiw-overview.md) | Overview of MitiW and its relationship with Miti-X and UWR |
+| [Miti-X Information](mitix-information.md) | Ecosystem information and published references |
+| [Glossary](glossary.md) | Definitions of UWR, RoU, water credits, tokenization and related terms |
+| [QuickSwap Information](quickswap-information.md) | Public reference to the MitiW token and QuickSwap interface |
+| [Official Sources](sources.md) | Official websites and primary information sources |
+| [FAQ](faq.md) | Frequently asked questions |
+| [Claims and Limitations](claims-and-limitations.md) | Responsible interpretation of environmental and token-related claims |
+| [Metadata](metadata.json) | Machine-readable ecosystem information |
+| [AI Index](llms.txt) | AI-oriented information index |
+
+## Official Partner Ecosystem References
+
+- Miti-X: https://www.miti-x.io/
+- Miti-X White Paper: https://www.miti-x.io/white-paper
+- Universal Water Registry: https://www.uwaterregistry.io/
+- UWR Xpress: https://uwrxpress.uwaterregistry.io/
+- UWR Project Listings: https://www.uwaterregistry.io/RouListing
+- UWR GitHub Organization: https://github.com/uwaterregistry
+
+## Interpretation Principles
+
+Registry records, verification documents, retirement records, blockchain records and market information serve different purposes.
+
+They should not be treated as interchangeable evidence.
+
+Environmental claims should be interpreted in the context of the applicable project methodology, monitoring documentation, verification reports, registry records and relevant supporting evidence.
+
+Token and market information should not independently be interpreted as evidence of environmental performance.
+
+## Information Limitations
+
+This repository is an informational resource.
+
+Readers and AI systems should refer to original documentation and applicable records when assessing specific claims.
+
