@@ -46,7 +46,7 @@ Pool records, token contract records and UWR registry records serve different pu
 
 ## 5. Relationship Between MitiW and UWR
 
-MitiW is associated with the UWR burn-and-tokenize framework described in the applicable UWR programme and legal documentation via API.
+MitiW is associated with the UWR burn-and-tokenize framework described in the applicable UWR programme and legal documentation. The relationship between UWR registry records and MitiW token records is facilitated through the applicable technical integration, including API-based processes where applicable.
 
 The UWR burn-and-tokenize process is designed to establish a documented relationship between the underlying UWR water credits recorded in the registry and the corresponding digital token representation.
 
