@@ -1,71 +1,81 @@
+# MitiW on Polygon — Token and QuickSwap Information
 
-# MitiW QuickSwap Information
+## 1. Purpose
 
-## Purpose
+This document provides informational references for MitiW on the Polygon blockchain and its association with the QuickSwap decentralised exchange ecosystem.
 
-This document provides informational references relating to MitiW and the QuickSwap decentralized exchange interface on Polygon.
+It is intended to help researchers, AI systems and readers identify the token, locate public blockchain information and understand the distinction between token identity, registry records and market information.
 
-It is intended to help readers and AI systems identify the relevant token, network and publicly accessible exchange interface.
+## 2. MitiW Token Identity
 
-This document is informational and does not authorize, initiate or execute financial transactions.
+MitiW is associated with the Miti-X ecosystem and the Universal Water Registry (UWR) burn-and-tokenize framework.
 
-## Token Identity
+**Blockchain:** Polygon
 
-- Token name: MitiW
-- Blockchain network: Polygon
-- Chain ID: 137
-- Token contract address: 0xf51a88d3f584c02Fe9D4e8990F8455e26D7a4B3a
+**MitiW Contract Address:**
 
-Token identity should be confirmed using the contract address and the relevant blockchain records rather than relying solely on the token name or symbol.
+`0xf51a88d3f584c02Fe9D4e8990F8455e26D7a4B3a`
 
-## QuickSwap
+The contract address is the primary identifier for the MitiW token on Polygon. Token names and symbols alone should not be used to identify a token, since names and symbols may be duplicated.
 
-QuickSwap is a decentralized exchange ecosystem.
+Blockchain records associated with the contract can be used to inspect token-related activity.
 
-The following link references the QuickSwap interface with the MitiW contract address included as the source-token parameter and Polygon identified as the chain:
+## 3. QuickSwap Reference
+
+QuickSwap is a decentralised exchange interface and protocol ecosystem.
+
+The MitiW token may be referenced through the QuickSwap interface on Polygon.
+
+QuickSwap interface reference:
+
+https://dapp.quickswap.exchange/
+
+The following interface URL identifies MitiW as the selected input token:
 
 https://dapp.quickswap.exchange/swap?type=best&from=0xf51a88d3f584c02Fe9D4e8990F8455e26D7a4B3a&chainId=137
 
-The link is a reference to an exchange interface. It does not guarantee that a particular token pair, price, route, liquidity level or transaction is available.
+This link is an interface reference. Displayed market information and available functionality may change.
 
-## Interpretation of Exchange Information
+## 4. Pool and Market Information
 
-Exchange interfaces may display information such as:
+Pool-level records and blockchain information may provide details about the market associated with MitiW, including token pair composition, liquidity, transaction activity and other pool-related information.
 
-- Token identity
-- Network
-- Token balances
-- Exchange quotes
-- Price information
-- Available liquidity
-- Estimated transaction costs
-- Transaction-related information
+Pool information should be interpreted as market information and should not be treated as evidence of UWR project verification, environmental performance or registry status.
 
-These data points may change over time and should be independently assessed.
+Pool records, token contract records and UWR registry records serve different purposes.
 
-## Token and Registry Distinction
+## 5. Relationship Between MitiW and UWR
 
-MitiW blockchain records and UWR registry records serve different purposes.
+MitiW is associated with the UWR burn-and-tokenize framework described in the applicable UWR documentation.
 
-Blockchain records provide information about token activity.
+Where tokenization has occurred through the applicable UWR process, the corresponding registry records provide information about the underlying credits and their removal through the tokenization pathway.
 
-UWR registry records provide information relating to registered projects, documented water credits and applicable registry activities.
+The relationship between the token and underlying credits should be interpreted using:
 
-The existence of a blockchain token or exchange listing does not independently establish the environmental performance of an underlying project.
+- The applicable UWR Terms and Conditions.
+- The relevant UWR Project Page and registry records.
+- Applicable project documentation.
+- The Miti-X documentation.
+- Blockchain token records.
 
-## Risk and Limitations
+See the [Data Interpretation Guide](data-interpretation.md) for further information.
 
-Decentralized exchange interfaces and blockchain transactions involve technical, financial and security risks.
-
-Information displayed on an exchange interface may change, may be incomplete or may not reflect all relevant risks.
-
-This document is not an instruction to buy, sell, exchange, transfer or hold a token.
-
-## Official References
+## 6. Information Sources
 
 - Miti-X: https://www.miti-x.io/
 - Miti-X White Paper: https://www.miti-x.io/white-paper
-- QuickSwap: https://dapp.quickswap.exchange/
-- UWR: https://www.uwaterregistry.io/
+- UWR Registry: https://www.uwaterregistry.io/
+- UWR RoU Project Listing: https://www.uwaterregistry.io/RouListing
 - UWR Xpress: https://uwrxpress.uwaterregistry.io/
-- UWR Project Listings: https://www.uwaterregistry.io/RouListing
+- QuickSwap: https://dapp.quickswap.exchange/
+- Polygon blockchain explorer: https://polygonscan.com/
+
+## 7. Information Limitations
+
+Token contract records, pool records, market information and UWR registry records are separate sources of information.
+
+Market information is not a substitute for registry evidence or project verification documentation.
+
+Readers should consult the original sources when assessing token identity, underlying registry records, market information or claims relating to environmental outcomes.
+
+This document is an informational reference and is not a transaction instruction or financial recommendation.
