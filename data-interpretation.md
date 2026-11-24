@@ -11,6 +11,16 @@ Registry records provide information about projects, their documentation, issuan
 
 Registry records should be interpreted in the context of the applicable methodology, monitoring documentation and verification records.
 
+UWR Project Pages, identified by unique Project IDs, also provide registry-level information relating to water credits that have been tokenized and subsequently removed from the corresponding registry account in accordance with the applicable tokenization process.
+
+Such records are intended to provide transparency and traceability regarding the credits associated with tokenization, including their status within the UWR registry.
+
+Tokenized credits are not retired or consumed water credits, hence the asset is represented by the corresponding digital blockchain token (e.g., MitiW), with the token serving as the digital asset through which the relevant tokenized asset may be held and transferred, subject to the applicable terms, legal framework and blockchain protocol.
+
+The relevant registry records and blockchain records are intended to support transparency regarding the relationship between the underlying registry records and the digital token, including the applicable transfer and retirement processes.
+
+Registry records, token records and applicable contractual or legal documentation should be read together when assessing the ownership, transferability and retirement rights associated with a tokenized credit.
+
 ## 2. Water Credits
 
 Water credits represent quantified outcomes under the applicable UWR methodology and project documentation.
