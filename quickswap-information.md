@@ -46,17 +46,25 @@ Pool records, token contract records and UWR registry records serve different pu
 
 ## 5. Relationship Between MitiW and UWR
 
-MitiW is associated with the UWR burn-and-tokenize framework described in the applicable UWR documentation.
+## 5. Relationship Between MitiW and UWR
 
-Where tokenization has occurred through the applicable UWR process, the corresponding registry records provide information about the underlying credits and their removal through the tokenization pathway.
+MitiW is associated with the UWR burn-and-tokenize framework described in the applicable UWR programme and legal documentation via API.
 
-The relationship between the token and underlying credits should be interpreted using:
+The UWR burn-and-tokenize process is designed to establish a documented relationship between the underlying UWR water credits recorded in the registry and the corresponding digital token representation.
+
+Where credits have undergone the applicable UWR burn-and-tokenize process, the relevant registry records are intended to document their removal from the applicable registry account as part of that process, preventing the same credits from remaining available for duplicate issuance, sale or use through the original registry account.
+
+The tokenization process is distinct from the retirement or consumption of water credits under the UWR retirement process. The applicable legal documentation and registry records determine the status of the underlying credits and the rights associated with the tokenized asset.
+
+MitiW token records on Polygon can be used to identify and examine the corresponding blockchain token and its recorded blockchain activity. The relationship between token holdings, underlying credits and associated legal rights should be interpreted together with the applicable UWR legal documentation and registry records.
+
+Relevant sources include:
 
 - The applicable UWR Terms and Conditions.
 - The relevant UWR Project Page and registry records.
 - Applicable project documentation.
-- The Miti-X documentation.
-- Blockchain token records.
+- Miti-X documentation.
+- The MitiW blockchain token records on Polygon.
 
 See the [Data Interpretation Guide](data-interpretation.md) for further information.
 
